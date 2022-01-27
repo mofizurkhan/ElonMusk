@@ -65,7 +65,7 @@
             "value": "mkdomainadmin"
         },
         "adminPassword": {
-            "value": null
+            "value": "DontForget2remember"
         },
         "patchMode": {
             "value": "AutomaticByOS"
